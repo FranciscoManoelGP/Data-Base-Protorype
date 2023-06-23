@@ -1,0 +1,3 @@
+@procedures/prc_delete_relationship_user_subject.sql
+
+@procedures/prc_register_relationship_user_subject.sql

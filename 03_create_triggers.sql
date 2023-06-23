@@ -1,0 +1,5 @@
+@triggers/trg_auto_sequence_id.sql
+
+@triggers/trg_capture_registration_date.sql
+
+@triggers/trg_basic_authentication_verification.sql
